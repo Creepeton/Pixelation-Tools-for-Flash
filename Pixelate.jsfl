@@ -84,5 +84,5 @@ for (var i = 0; i < selectedFramesLength; i++) {
 		lib.deleteItem(symbolName2);
 		lib.deleteItem(nameHD);
 	}
-	currentFrame += 1;
+	currentFrame ++;
 }
