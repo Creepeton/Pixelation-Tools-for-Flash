@@ -1,4 +1,4 @@
-# Pixelation-Tools-for-Adobe-Animate
+# Pixelation Tools for Flash
 
 The title is pretty self explanatory. It is used to obtain the effect of the SNES.
 
