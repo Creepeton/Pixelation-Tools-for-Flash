@@ -6,7 +6,7 @@ The title is pretty self explanatory. It is used to obtain the effect of the SNE
 
 https://github.com/user-attachments/assets/6af7b517-3b44-4684-a9c4-a6564825615c
 
-(All done in Adobe Animate btw, sprites by the Sripters' Ressource)
+(All done in Flash btw, sprites by the Sripters' Ressource)
 
 Compatibe for Macromedia Flash and further ... I think
 
