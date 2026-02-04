@@ -5,8 +5,8 @@ var selectedFramesLength = selectedFrames[2] - selectedFrames[1]; // Calculate t
 var sel = dom.selection
 
 if (selectedFramesLength > 1) { 
-    an.getDocumentDOM().getTimeline().convertToKeyframes();  
-    an.getDocumentDOM().getTimeline().setFrameProperty('tweenType', 'none');  
+    fl.getDocumentDOM().getTimeline().convertToKeyframes();  
+    fl.getDocumentDOM().getTimeline().setFrameProperty('tweenType', 'none');  
 }; 
 
 var currentFrame = selectedFrames[1];
