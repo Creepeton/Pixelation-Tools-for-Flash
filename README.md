@@ -16,5 +16,5 @@ Select the frames you want to pixelate/round coordinates (on ONE layer) and run 
 
 ## Issues (I won't fix)
 
-- It only works for 1 layer
+- It only works for 1 layer at a time
 - It only pixelates keyframes and tween frames
